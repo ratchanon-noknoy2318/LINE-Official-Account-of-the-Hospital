@@ -22,8 +22,6 @@ The Webhook Service Module constitutes the core architectural interface between 
 
 The Client-Side Interface is governed by the LINE Rich Menu framework, serving as the primary navigation infrastructure for digital service delivery. This interface is optimized for mission-critical hospital functions, ensuring constituents have standardized and efficient access to healthcare resources.
 
-
-
 <p align="center">
   <img src="richmenu.png" alt="Hospital Interface Protocol" width="100%" style="border: 1.5px solid #222; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
 </p>
